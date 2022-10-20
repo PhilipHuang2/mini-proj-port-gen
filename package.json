@@ -1,0 +1,22 @@
+{
+  "name": "mini-proj-port-gen",
+  "version": "1.0.0",
+  "description": "Command line generate portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipHuang2/mini-proj-port-gen.git"
+  },
+  "author": "Philip Huang & Jack McWilliams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilipHuang2/mini-proj-port-gen/issues"
+  },
+  "homepage": "https://github.com/PhilipHuang2/mini-proj-port-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
